@@ -1,0 +1,51 @@
+,id,title,primary_artist,all_artists,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,duration_s
+0,3nqQXoyQOWXiESFLlDF1hG,Unholy (feat. Kim Petras),Sam Smith,"['Sam Smith', 'Kim Petras']",0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,4,157
+1,4uUG5RXrOk84mYEfFvj3cK,I'm Good (Blue),David Guetta,"['David Guetta', 'Bebe Rexha']",0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,4,175
+2,4Dvkj6JhhA12EX05fT7y2e,As It Was,Harry Styles,['Harry Styles'],0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,4,167
+3,2tTmW7RDtMQtBk7m2rYeSw,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,"['Bizarrap', 'Quevedo']",0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,4,199
+4,5ww2BF9slyYgNOk37BlC4u,La Bachata,Manuel Turizo,['Manuel Turizo'],0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,4,163
+5,6Sq7ltF9Qa7SNFBsV5Cogx,Me Porto Bonito,Bad Bunny,"['Bad Bunny', 'Chencho Corleone']",0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,4,179
+6,7gRFDGEzF9UkBV233yv2dc,Shut Down,BLACKPINK,['BLACKPINK'],0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,3,176
+7,1IHWl5LamUGEuP4ozKQSXZ,Tití Me Preguntó,Bad Bunny,['Bad Bunny'],0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,4,244
+8,4h9wh7iOZ0GGn8QVp4RAOB,I Ain't Worried,OneRepublic,['OneRepublic'],0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4,148
+9,5IgjP7X4th6nMNDh4akUHb,Under The Influence,Chris Brown,['Chris Brown'],0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,4,185
+10,53tfEupEzQRtVFOeZvk7xq,DESPECHÁ,ROSALÍA,['ROSALÍA'],0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,4,157
+11,4k6Uh1HXdhtusDW5y8Gbvy,Bad Habit,Steve Lacy,['Steve Lacy'],0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,4,232
+12,5zwwW9Oq7ubSxoCGyW1nbY,Pink Venom,BLACKPINK,['BLACKPINK'],0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,4,187
+13,5Eax0qFko2dh7Rl2lYs3bx,Efecto,Bad Bunny,['Bad Bunny'],0.801,0.475,7,-8.797,0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,4,213
+14,2yjlYDiNiQkdxVqTlaSrlX,Super Freaky Girl,Nicki Minaj,['Nicki Minaj'],0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,4,171
+15,3k3NWokhRRkEPhCzPmV8TW,Ojitos Lindos,Bad Bunny,"['Bad Bunny', 'Bomba Estéreo']",0.647,0.686,3,-5.745,0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,4,258
+16,6xGruZOHLs39ZbVccQTuPZ,Glimpse of Us,Joji,['Joji'],0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3,233
+17,6zJejIfVYLgjud3lTk4DLB,SNAP,Rosa Linn,['Rosa Linn'],0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,4,180
+18,7jtQIBanIiJOMS6RyCx6jZ,Another Love,Tom Odell,['Tom Odell'],0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4,244
+19,02MWAaffLxlfxAUY7c5dvx,Heat Waves,Glass Animals,['Glass Animals'],0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,4,239
+20,6Xom58OOXk2SoU711L2IXO,Moscow Mule,Bad Bunny,['Bad Bunny'],0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,4,246
+21,38T0tPVZHcPZyhtOcCP7pF,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,['Lil Nas X'],0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,4,211
+22,31i56LZnwE6uSu3exoHjtB,Neverita,Bad Bunny,['Bad Bunny'],0.876,0.498,10,-7.511,1,0.0478,0.0706,0.0,0.143,0.428,122.016,4,173
+23,75FEaRjZTKLhTrFGsfMUXR,Running Up That Hill (A Deal With God),Kate Bush,['Kate Bush'],0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4,299
+24,2QjOHCTQ1Jl3zawyYOpxh6,Sweater Weather,The Neighbourhood,['The Neighbourhood'],0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4,240
+25,2LBqCSwhJGcFQeTHMVGwy3,Die For You,The Weeknd,['The Weeknd'],0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4,260
+26,5PjdY0CKGZdEuoNab3yDmX,STAY (with Justin Bieber),The Kid LAROI,"['The Kid LAROI', 'Justin Bieber']",0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,4,142
+27,7dSZ6zGTQx66c2GF91xCrb,PROVENZA,KAROL G,['KAROL G'],0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,4,210
+28,6VhuP99TE6gYNQRJIlAWFD,Until I Found You,Stephen Sanchez,['Stephen Sanchez'],0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,3,177
+29,0mBP9X2gPCuapvpZ7TGDk3,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,"['Charlie Puth', 'Jung Kook', 'BTS']",0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,154
+30,1xK59OXxi2TAAAbmZK0kBL,Romantic Homicide,d4vd,['d4vd'],0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,4,133
+31,3LtpKP5abr2qqjunvjlX5i,Doja,Central Cee,['Central Cee'],0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,4,97
+32,1xzi1Jcr7mEi9K2RfzLOqS,CUFF IT,Beyoncé,['Beyoncé'],0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,4,225
+33,0O6u0VJ46W86TxN9wgyqDj,I Like You (A Happier Song) (with Doja Cat),Post Malone,"['Post Malone', 'Doja Cat']",0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,4,193
+34,1qEmFfgcLObUfQm0j1W2CK,Late Night Talking,Harry Styles,['Harry Styles'],0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,4,178
+35,4h4QlmocP3IuwYEj2j14p8,Sunroof,Nicky Youre,"['Nicky Youre', 'dazy']",0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,4,163
+36,54ipXppHLA8U4yqpOFTUhr,Bones,Imagine Dragons,['Imagine Dragons'],0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,4,165
+37,0WtM2NBVQNNJLh6scP13H8,Calm Down (with Selena Gomez),Rema,"['Rema', 'Selena Gomez']",0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,4,239
+38,6JIC3hbC28JZKZ8AlAqX8h,Cold Heart - PNAU Remix,Elton John,"['Elton John', 'Dua Lipa', 'PNAU']",0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,4,203
+39,6HMtHNpW6YPi1hrw9tgF8P,About Damn Time,Lizzo,['Lizzo'],0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,4,192
+40,7a8GawTVgHZvBLQOh46he7,I Wanna Be Yours,Arctic Monkeys,['Arctic Monkeys'],0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,4,184
+41,7wdwIaXUuzlu1grzWMFRJm,Mary On A Cross,Ghost,['Ghost'],0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4,245
+42,79HZAZNnOE97rb2hnI0XQr,LOKERA,Rauw Alejandro,"['Rauw Alejandro', 'Lyanno', 'Brray']",0.834,0.828,11,-2.657,0,0.0452,0.21,5.91e-06,0.103,0.58,102.019,4,195
+43,41oY4WCTj5kccfesTVFnvN,Tarot,Bad Bunny,"['Bad Bunny', 'Jhay Cortez']",0.795,0.684,11,-3.971,0,0.0419,0.0225,0.0,0.658,0.419,114.011,4,238
+44,5TJEBoTCDbJXiKMdCN9pd3,Hold Me Closer,Elton John,"['Elton John', 'Britney Spears']",0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,4,202
+45,6i1g5ZRmJZAkDwBaUZ3f2i,Caile,Luar La L,['Luar La L'],0.704,0.756,0,-4.948,1,0.448,0.298,3.75e-06,0.0852,0.461,121.737,3,141
+46,0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,The Weeknd,['The Weeknd'],0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,4,200
+47,58ge6dfP91o9oXMzq3XkIS,505,Arctic Monkeys,['Arctic Monkeys'],0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4,254
+48,1ga4PztXOIw1yBbdUt2X8v,GATÚBELA,KAROL G,"['KAROL G', 'Maldy']",0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,4,209
+49,6I3mqTwhRpn34SLVafSH7G,Ghost,Justin Bieber,['Justin Bieber'],0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,4,153
