@@ -1,0 +1,101 @@
+,id,title,primary_artist,all_artists,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,duration_s
+0,5y8d8RHvxb0KiTa9Nq0xWp,Morning Has Broken - Remastered 2021,Yusuf / Cat Stevens,['Yusuf / Cat Stevens'],0.443,0.365,7,-11.829,1,0.0315,0.592,0.00484,0.0886,0.398,133.156,3,199
+1,5p3JunprHCxClJjOmcLV8G,Walk On the Wild Side,Lou Reed,['Lou Reed'],0.575,0.318,0,-16.729,1,0.109,0.683,0.000202,0.0934,0.385,104.522,4,254
+2,2QgWuCtBpNIpl5trmKCxRf,American Pie,Don McLean,['Don McLean'],0.526,0.509,7,-10.893,1,0.0628,0.6,0.0,0.144,0.497,138.318,4,516
+3,63xdwScd1Ai1GigAwQxE8y,Let's Stay Together,Al Green,['Al Green'],0.756,0.401,7,-10.702,0,0.0526,0.582,0.011,0.0541,0.514,101.954,4,199
+4,5Z8EDau8uNcP1E8JvmfkZe,School's Out,Alice Cooper,['Alice Cooper'],0.294,0.745,5,-9.138,1,0.0461,0.05,0.125,0.676,0.347,134.364,4,210
+5,3gdewACMIVMEWVbyb8O9sY,"Rocket Man (I Think It's Going To Be A Long, Long Time)",Elton John,['Elton John'],0.601,0.532,10,-9.119,1,0.0286,0.432,6.25e-06,0.0925,0.341,136.571,4,282
+6,4yugZvBYaoREkJKtbG08Qr,Take It Easy - 2013 Remaster,Eagles,['Eagles'],0.575,0.67,7,-10.39,1,0.0318,0.343,4.95e-06,0.129,0.74,139.191,4,212
+7,54eZmuggBFJbV7k248bTTt,A Horse with No Name,America,"['America', 'George Martin']",0.654,0.506,11,-17.18,0,0.0535,0.686,0.0155,0.155,0.831,123.179,4,252
+8,7zMUCLm1TN9o9JlLISztxO,Burning Love,Elvis Presley,['Elvis Presley'],0.66,0.748,2,-11.206,1,0.0284,0.0993,0.00585,0.283,0.972,143.549,4,170
+9,2BY7ALEWdloFHgQZG6VMLA,Brandy (You're a Fine Girl),Looking Glass,['Looking Glass'],0.716,0.625,1,-11.369,0,0.0601,0.396,1.97e-05,0.134,0.826,125.276,4,187
+10,2TVxnKdb3tqe1nhQWwwZCO,Tiny Dancer,Elton John,['Elton John'],0.414,0.428,0,-11.097,1,0.0278,0.382,0.000243,0.148,0.282,145.075,4,377
+11,2DnJjbjNTV9Nd5NOa1KGba,You're so Vain,Carly Simon,['Carly Simon'],0.659,0.678,0,-8.18,1,0.0313,0.157,6.69e-06,0.0784,0.647,106.186,4,258
+12,3M8FzayQWtkvOhqMn2V4T2,Lean on Me,Bill Withers,['Bill Withers'],0.619,0.22,0,-13.843,1,0.0672,0.782,1.19e-05,0.124,0.426,75.143,4,259
+13,52VIdyKqp1pJRSyUQaxKUA,Everything I Own,Bread,['Bread'],0.365,0.338,2,-13.406,1,0.0322,0.735,0.0,0.104,0.446,79.241,4,187
+14,2BstRQGodshjGpeDGQiNgo,Do It Again,Steely Dan,['Steely Dan'],0.682,0.537,2,-10.254,0,0.0323,0.218,3.07e-05,0.0556,0.963,124.574,4,357
+15,0DcrhZ12WcCqruCs8ibXSf,I Can See Clearly Now - Edit,Johnny Nash,['Johnny Nash'],0.681,0.373,2,-13.2,1,0.0568,0.633,0.00113,0.0751,0.623,123.423,4,165
+16,5YLnfy7R2kueN0BRPkjiEG,I'll Take You There,The Staple Singers,['The Staple Singers'],0.846,0.595,0,-8.372,1,0.0439,0.0904,1.96e-06,0.063,0.78,101.632,4,197
+17,6MrILERJLA3Jcq0E9poZsp,Without You,Harry Nilsson,['Harry Nilsson'],0.381,0.186,4,-15.477,1,0.029,0.613,2.75e-06,0.0694,0.142,65.058,4,201
+18,1B5Tp2Ml9nLlmTSJx8xVfI,Always On My Mind,Elvis Presley,['Elvis Presley'],0.358,0.387,7,-14.342,1,0.0324,0.746,0.0121,0.119,0.495,181.183,4,218
+19,3QcuZo6WLcFkqqLmDs0d95,Doctor My Eyes,Jackson Browne,['Jackson Browne'],0.48,0.626,5,-8.406,1,0.0294,0.266,5.7e-05,0.0857,0.542,75.63,4,200
+20,1ne9wOtDF2jM6Cm8WBkaER,Rocky Mountain High,John Denver,['John Denver'],0.455,0.437,4,-11.411,1,0.0278,0.314,0.0,0.501,0.724,81.396,4,284
+21,5UwbnHhjnbinJH8TefuQfN,Long Cool Woman (In a Black Dress) - 1999 Remaster,The Hollies,['The Hollies'],0.757,0.868,9,-9.326,1,0.062,0.411,0.00221,0.355,0.815,138.923,4,199
+22,6Ro2z4RtAUew9Kz2HZWZUi,Me and Mrs. Jones,Billy Paul,['Billy Paul'],0.294,0.528,8,-10.01,1,0.0471,0.234,0.0,0.147,0.452,200.813,3,285
+23,71CXzHYYOyNqgtVFpNdeCS,I'd Love You to Want Me,Lobo,['Lobo'],0.431,0.543,10,-9.96,1,0.0394,0.122,0.000123,0.0598,0.44,77.507,4,248
+24,7fLTytvnvxy653VWxflTRf,Stay with Me,Faces,['Faces'],0.458,0.869,9,-8.381,1,0.032,0.0969,0.0596,0.357,0.813,91.39,4,279
+25,5uRkew0DtfAQmv0oEYNwFF,I Saw the Light - 2015 Remaster,Todd Rundgren,['Todd Rundgren'],0.504,0.673,0,-11.834,0,0.0336,0.214,2.29e-06,0.171,0.581,120.418,4,180
+26,7MiLmLbwNoyf47xQ4TCVYp,Papa Was A Rollin' Stone - Single Version,The Temptations,['The Temptations'],0.817,0.405,10,-13.513,0,0.0811,0.451,0.0507,0.0468,0.898,121.467,4,420
+27,4gRA0i5sxx3jAhHaVjPnUN,Use Me,Bill Withers,['Bill Withers'],0.758,0.586,11,-13.461,0,0.056,0.033,0.0028,0.0743,0.947,154.629,4,228
+28,0WNGPpmWqzPnk0psUhJ3SX,All the Young Dudes,Mott The Hoople,['Mott The Hoople'],0.429,0.668,4,-7.539,0,0.044,0.208,0.0,0.538,0.398,77.737,4,211
+29,2vLaES21zwbX1Rnmj56Bbb,I'll Be Around,The Spinners,['The Spinners'],0.593,0.791,8,-8.698,0,0.068,0.175,0.0,0.0976,0.63,112.295,4,189
+30,2uLx3Gka9TGCz9Zgu7Uwav,Whiskey In The Jar,Thin Lizzy,"['Thin Lizzy', 'Derek Varnals']",0.557,0.693,7,-11.044,1,0.0445,0.531,0.00141,0.196,0.747,127.531,4,345
+31,0SxFyA4FqmEQqZVuAlg8lf,The First Time Ever I Saw Your Face,Roberta Flack,['Roberta Flack'],0.311,0.0264,0,-21.644,1,0.037,0.731,0.00205,0.156,0.139,120.653,4,261
+32,5yrsBzgHkfu2idkl2ILQis,You Don't Mess Around with Jim,Jim Croce,['Jim Croce'],0.705,0.581,11,-11.379,0,0.0455,0.607,1.52e-05,0.117,0.967,163.24,4,185
+33,0YveezON7jpiaHA8fnUHxN,Roundabout - 2003 Remaster,Yes,['Yes'],0.41,0.761,4,-9.453,0,0.0687,0.0685,0.00772,0.0758,0.392,132.923,4,511
+34,4OJFkrRQqol4FsPesF8eu4,Saturday in the Park - 2002 Remaster,Chicago,['Chicago'],0.67,0.763,7,-6.864,1,0.0341,0.155,0.0,0.0799,0.61,114.398,4,236
+35,75GQIYnRaBg7ndHxhfYuQy,Go All The Way,Raspberries,['Raspberries'],0.305,0.849,9,-4.892,1,0.0999,0.548,0.000134,0.0995,0.555,134.287,4,205
+36,3Xd39NB1rifow2RDNVgSFp,Sunshine (Go Away Today),Jonathan Edwards,['Jonathan Edwards'],0.705,0.359,10,-15.388,1,0.0649,0.335,0.0,0.0968,0.837,125.31,4,139
+37,4hLk7Bjz1XJWNDiqovvgBW,Sylvia's Mother,Dr. Hook,['Dr. Hook'],0.303,0.47,9,-12.715,1,0.0512,0.692,0.0,0.339,0.563,168.104,4,228
+38,2XKW8CH8nRZH9cF2DNjBHN,Day After Day - Remastered 2010,Badfinger,['Badfinger'],0.399,0.686,5,-7.112,1,0.0311,0.109,0.000874,0.112,0.377,101.806,4,191
+39,0KpMY3D2G8253VTZbDBUmA,Back Stabbers,The O'Jays,"[""The O'Jays""]",0.751,0.714,10,-11.614,1,0.0374,0.317,0.0,0.639,0.935,124.379,4,186
+40,7L4G39PVgMfaeHRyi1ML7y,Day Dreaming,Aretha Franklin,['Aretha Franklin'],0.463,0.273,0,-15.364,0,0.074,0.907,0.000367,0.101,0.293,146.426,4,240
+41,6vuEG9sZtC4W2zT64f7zLF,Alone Again (Naturally),Gilbert O'Sullivan,"[""Gilbert O'Sullivan""]",0.558,0.464,8,-8.488,0,0.0354,0.583,0.000133,0.159,0.558,171.762,4,218
+42,6uqTETWok9npbL4c9cuLVh,Clean up Woman,Betty Wright,['Betty Wright'],0.865,0.652,5,-9.046,1,0.143,0.566,0.000919,0.0833,0.829,90.081,4,170
+43,57KfogSy3eKuk5JHLKwCJv,Song Sung Blue,Neil Diamond,['Neil Diamond'],0.594,0.529,0,-9.338,1,0.0287,0.276,3.92e-05,0.148,0.511,109.703,4,186
+44,2OyaNAq8BcGstyzueloqpE,Too Late To Turn Back Now,Cornelius Brothers & Sister Rose,['Cornelius Brothers & Sister Rose'],0.516,0.73,7,-7.136,1,0.0494,0.344,0.0,0.425,0.907,115.126,4,199
+45,5vZ1BKMSLgrxxPYGMR904n,Mother and Child Reunion,Paul Simon,['Paul Simon'],0.712,0.632,9,-7.704,1,0.0334,0.112,0.0,0.0648,0.764,119.931,4,187
+46,4o5GyaeGMgDsrclBsL3au7,Coconut,Harry Nilsson,['Harry Nilsson'],0.653,0.494,5,-14.79,1,0.102,0.389,1.46e-06,0.0677,0.905,137.463,4,232
+47,0gJj33ghcMjK7m2ORh0ZZk,"The Cover of ""Rolling Stone""",Dr. Hook,['Dr. Hook'],0.614,0.56,9,-8.168,1,0.0699,0.201,0.0,0.214,0.826,142.332,4,172
+48,0P6TTXbSLGrSoTNMz5kvB7,The City of New Orleans,Arlo Guthrie,['Arlo Guthrie'],0.616,0.577,1,-8.834,1,0.0407,0.535,0.0,0.0808,0.592,145.863,4,275
+49,7l07ak5IWpISBsrUtwj4O4,Where Is the Love,Roberta Flack,"['Roberta Flack', 'Donny Hathaway']",0.558,0.439,8,-13.443,1,0.0281,0.369,1.78e-05,0.161,0.605,114.969,4,166
+50,4XsH9zBWPOCdXoH9ZDdS8r,Superfly,Curtis Mayfield,['Curtis Mayfield'],0.784,0.708,2,-9.141,1,0.11,0.457,7.5e-05,0.0913,0.748,120.11,4,234
+51,2GEDd9qtGXU7IvGgqTF6Uj,I'm Still in Love with You,Al Green,['Al Green'],0.712,0.393,0,-9.538,1,0.0287,0.158,0.000588,0.0908,0.791,97.918,4,192
+52,5F40csF5DtKOGfEg8vuz1d,Rock 'n' Roll (Part 2),Gary Glitter,['Gary Glitter'],0.71,0.314,11,-10.666,0,0.082,0.000292,0.785,0.0857,0.401,129.124,4,193
+53,1PLgQkmhgh6GHQnomQ50Rv,Goodbye To Love,Carpenters,['Carpenters'],0.22,0.361,5,-12.017,1,0.0277,0.422,0.000311,0.149,0.382,83.133,4,238
+54,0cFlXjTxFdMGGPfLVpt3Wv,Oh Girl,The Chi-Lites,['The Chi-Lites'],0.418,0.402,10,-12.942,1,0.0288,0.226,0.0,0.103,0.601,133.683,4,216
+55,0ZFqB9g2FujbmMSrjqsL3j,Ben - Single Version,Michael Jackson,['Michael Jackson'],0.435,0.161,5,-10.84,1,0.0298,0.911,0.000214,0.113,0.291,136.166,4,167
+56,4z51Gf7Ppt9Lmu5zmnUIz9,Baby Don't Get Hooked on Me,Mac Davis,['Mac Davis'],0.495,0.307,9,-18.168,1,0.0403,0.26,5.21e-05,0.103,0.802,80.97,4,184
+57,5ZgNecJcN9SSopnmCTlpXs,Virginia Plain,Roxy Music,['Roxy Music'],0.588,0.708,6,-7.823,1,0.0351,0.445,3.94e-05,0.293,0.579,131.197,4,178
+58,6aKFAhG7hCy71wLDMKjP5G,In The Rain,The Dramatics,['The Dramatics'],0.421,0.514,8,-9.52,0,0.049,0.591,8.97e-05,0.337,0.564,145.653,4,209
+59,0w6qnStMvC77oV25dTSiYg,Betcha by Golly Wow (Live),The Stylistics,['The Stylistics'],0.43,0.56,3,-9.62,1,0.0268,0.362,0.000107,0.495,0.391,72.238,4,253
+60,7da5B9d2oVV16YSzXVxmrR,Brand New Key,Melanie,['Melanie'],0.703,0.292,1,-10.924,1,0.036,0.805,3.76e-06,0.08,0.855,84.032,4,147
+61,63gcHyuhAC8G2C0bVQUOJI,Rockin' Robin,Michael Jackson,['Michael Jackson'],0.622,0.721,10,-8.224,1,0.0983,0.24,7.88e-05,0.271,0.968,173.395,4,155
+62,0drfRiYTLDEoQUNlDjmUCk,Everybody Plays the Fool - Remastered,The Main Ingredient,['The Main Ingredient'],0.62,0.51,10,-10.665,1,0.0431,0.627,0.0,0.181,0.878,83.477,4,199
+63,1jcTfIiBUz35bBqgHYItP6,Slippin' Into Darkness,War,['War'],0.676,0.625,4,-8.747,0,0.0729,0.144,0.00658,0.0796,0.655,90.999,4,227
+64,08BSHFPXmclm8AYat5hXM7,You Wear It Well,Rod Stewart,['Rod Stewart'],0.547,0.561,2,-10.056,1,0.0322,0.491,7.47e-06,0.146,0.899,127.295,4,263
+65,722E6CPY8biq4sUnf40u6Y,Why Can't We Live Together,Timmy Thomas,['Timmy Thomas'],0.87,0.455,7,-15.31,0,0.0342,0.575,0.648,0.051,0.961,105.658,4,278
+66,5mXxGgaqcH9KNf5K0OKd5W,Don't Expect Me to Be Your Friend,Lobo,['Lobo'],0.513,0.347,1,-13.506,1,0.029,0.273,0.0417,0.0805,0.52,78.811,4,218
+67,0hbC2CAJidLslKqJ39Lxh4,I'd Like to Teach the World to Sing (In Perfect Harmony),The New Seekers,['The New Seekers'],0.466,0.476,11,-9.289,1,0.031,0.749,0.0,0.22,0.856,133.731,4,145
+68,26mlDJoh5bQiC7efK7xq9z,Sealed with a Kiss,Bobby Vinton,['Bobby Vinton'],0.414,0.317,5,-12.9,0,0.026,0.678,2.56e-05,0.213,0.673,86.111,4,169
+69,7uuM0HwvCG20e5ttu6ugmP,Precious and Few,Climax,['Climax'],0.203,0.401,9,-12.341,1,0.0339,0.434,0.0,0.1,0.17,201.467,4,165
+70,6HH6fmHF2YssfVkRmzcjf0,(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,['The 5th Dimension'],0.671,0.497,5,-12.53,0,0.0289,0.484,0.0027,0.0893,0.564,105.117,4,193
+71,4wGKFjv7PUEZJsRk79wNKu,Hurting Each Other,Carpenters,['Carpenters'],0.341,0.325,4,-9.421,1,0.038,0.765,0.0,0.3,0.292,93.265,3,169
+72,1GyQrKyK660LcFW1iPnneq,Poppa Joe,Sweet,['Sweet'],0.745,0.887,1,-5.604,1,0.0568,0.0295,0.018,0.103,0.936,106.047,4,187
+73,45aoC0yE3RZGWz5QPb41M1,Popcorn,Hot Butter,['Hot Butter'],0.784,0.627,11,-14.617,0,0.0572,0.0425,0.717,0.0645,0.952,136.879,4,151
+74,54K7o2yNOMZYCtEDnfD6wI,(If Loving You Is Wrong) I Don't Want to Be Right,Luther Ingram,['Luther Ingram'],0.502,0.451,4,-7.423,0,0.0438,0.283,0.0,0.154,0.531,140.474,4,217
+75,3VAIny0fsmbiZCwt3817Ay,Vincent,Don McLean,['Don McLean'],0.449,0.168,7,-14.907,1,0.0357,0.867,0.0,0.248,0.45,113.394,3,240
+76,3xZjvDDUsaboSugOseTF7E,Rock 'n' Roll (Part 1),Gary Glitter,['Gary Glitter'],0.694,0.4,2,-11.491,1,0.0727,0.0402,0.0176,0.529,0.38,129.813,4,185
+77,2Hyis7pyTBDyR3zq4GNZCu,Do You Want to Dance,Bette Midler,['Bette Midler'],0.384,0.393,7,-7.959,0,0.0349,0.641,1.69e-06,0.0869,0.446,167.241,4,163
+78,1hbf8AWhIfIQk8V9KqTRAl,Drowning in the Sea of Love,Joe Simon,['Joe Simon'],0.603,0.448,9,-10.548,0,0.0934,0.392,0.0157,0.105,0.509,119.717,4,203
+79,2ouFIPC3O1HNBcVTw1d9AN,Freddie's Dead,Curtis Mayfield,['Curtis Mayfield'],0.523,0.803,1,-6.321,0,0.0791,0.107,0.000409,0.154,0.921,91.469,4,329
+80,3vfIv3pvYlLOa0wKIEuqFn,Hold Your Head Up,Argent,['Argent'],0.502,0.488,7,-12.265,1,0.0261,0.3,0.128,0.319,0.74,89.279,4,378
+81,7qnxmC6qdYkjcoCJCeD8Jx,Taxi,Harry Chapin,['Harry Chapin'],0.61,0.363,4,-12.576,0,0.0322,0.679,2.83e-05,0.18,0.462,118.509,4,403
+82,5yGYWR0ZTgaQbjQVq1FFbW,Little Willy,Sweet,['Sweet'],0.662,0.772,11,-7.135,1,0.0356,0.332,1.22e-06,0.314,0.914,127.025,4,192
+83,17KFO56mkVEKR0v8qOPlkU,Outa-Space,Billy Preston,['Billy Preston'],0.715,0.827,1,-8.555,1,0.0369,0.14,0.176,0.243,0.901,116.213,4,251
+84,7HWH4kGaHR3ZwKNFPT4dSW,Puppy Love,Donny Osmond,['Donny Osmond'],0.414,0.681,1,-3.992,1,0.036,0.612,7.98e-06,0.248,0.538,102.338,3,185
+85,253zp2n9mfSR2PwsH78gN8,Meet Me On The Corner,Lindisfarne,['Lindisfarne'],0.585,0.38,9,-14.437,1,0.0261,0.201,0.0,0.071,0.573,92.517,4,160
+86,3P4uUs9X0cPw7rf37NTndV,Children Of The Revolution,T. Rex,['T. Rex'],0.538,0.652,2,-11.285,1,0.052,0.0465,0.0,0.0734,0.785,130.398,4,150
+87,1lYJDRaadnotdfcZFp5Izd,Clair,Gilbert O'Sullivan,"[""Gilbert O'Sullivan""]",0.72,0.5,9,-7.306,1,0.0347,0.509,0.0,0.147,0.609,105.727,4,183
+88,2xqU0LICzKGx0ZHdRWBoEi,Beautiful Sunday,Daniel Boone,['Daniel Boone'],0.628,0.753,2,-6.719,1,0.0291,0.127,0.0,0.188,0.876,121.992,4,174
+89,0oIL0V8acWjmUDs79Uiqsz,"Beg, Steal Or Borrow",The New Seekers,['The New Seekers'],0.48,0.609,9,-12.193,0,0.0432,0.102,0.0,0.592,0.616,135.774,4,168
+90,6LqbJXriVJyqJCd9jYoPqP,Crazy Horses,The Osmonds,['The Osmonds'],0.512,0.977,2,-4.505,1,0.0671,0.215,0.0,0.343,0.731,120.165,4,153
+91,738VP3uV3ENOVVmXmJGuWS,Get On The Good Foot - Pt. 1,James Brown,['James Brown'],0.893,0.798,7,-6.311,1,0.127,0.0577,2.43e-06,0.034,0.776,108.355,4,210
+92,4XcUADpOth9Wroq5EVMFJq,Black And White,Three Dog Night,['Three Dog Night'],0.688,0.577,11,-12.093,1,0.0292,0.493,1.04e-05,0.528,0.961,109.077,4,206
+93,3pHx8jI1ZBVYcMG2QCZaKG,Run Run Run,Jo Jo Gunne,['Jo Jo Gunne'],0.587,0.786,3,-6.048,1,0.0349,0.184,0.267,0.0302,0.793,136.089,4,155
+94,5yjuIx3UvOKHwLsCuM3DMM,The Candy Man,Sammy Davis Jr.,['Sammy Davis Jr.'],0.633,0.615,0,-7.775,1,0.0371,0.705,0.0,0.366,0.831,132.366,4,189
+95,2L8mIvM1OwkJyGb3WwDFT3,My Ding-A-Ling,Chuck Berry,['Chuck Berry'],0.767,0.517,4,-9.908,1,0.195,0.791,0.000186,0.078,0.846,144.322,4,224
+96,08QvVJT8y6b0i2nH9mUeMj,Got To Be There - Single Version,Michael Jackson,['Michael Jackson'],0.349,0.569,1,-9.512,1,0.0434,0.11,0.000122,0.0416,0.721,171.354,4,205
+97,2Gp23sr178DBntGtqKnJez,Mama Weer All Crazee Now,Slade,['Slade'],0.422,0.955,7,-4.73,0,0.101,0.0113,0.0458,0.107,0.27,138.038,4,225
+98,4KcE3At063Xyleg2xGzVYz,Metal Guru,T. Rex,['T. Rex'],0.251,0.917,2,-5.552,1,0.118,0.000678,0.000453,0.217,0.504,127.112,4,150
+99,49ZAeWd40u4py51DpjEY8p,Down By The Lazy River,The Osmonds,['The Osmonds'],0.6,0.909,1,-5.154,0,0.0742,0.433,0.0,0.337,0.94,141.678,4,163

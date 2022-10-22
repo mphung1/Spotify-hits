@@ -2,3 +2,4 @@
 .env
 .cache
 geckodriver.log
+__pycache__

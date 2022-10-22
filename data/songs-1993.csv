@@ -1,0 +1,101 @@
+,id,title,primary_artist,all_artists,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,duration_s
+0,1k2NivgsLlf1jgn13QqEcd,I'd Do Anything For Love (But I Won't Do That),Meat Loaf,['Meat Loaf'],0.366,0.561,2,-10.383,1,0.0857,0.465,4.28e-06,0.14,0.363,150.425,4,719
+1,2IHaGyfxNoFPLJnaEg4GTs,"What Is Love - 7"" Mix",Haddaway,['Haddaway'],0.683,0.772,7,-7.907,0,0.0311,0.0222,0.0149,0.203,0.737,123.871,4,270
+2,0jWgAnTrNZmOGmqgvHhZEm,What's Up?,4 Non Blondes,['4 Non Blondes'],0.565,0.564,2,-10.044,1,0.0292,0.161,0.0,0.114,0.454,134.355,4,296
+3,3TW48DvQ7ChwY1Yy1tkMaP,Runaway Train (2022 Remaster),Soul Asylum,['Soul Asylum'],0.613,0.72,0,-7.957,1,0.0425,0.0132,0.0,0.104,0.561,117.341,4,266
+4,6kWJvPfC4DgUpRsXKNa9z9,All That She Wants,Ace of Base,['Ace of Base'],0.798,0.625,11,-9.689,1,0.0548,0.00547,7.98e-05,0.103,0.858,93.764,4,211
+5,0NJC0FDCODpPUntRTTQq97,Cryin',Aerosmith,['Aerosmith'],0.445,0.856,9,-3.674,1,0.0327,0.000202,0.0101,0.367,0.486,105.872,3,308
+6,5DiXcVovI0FcY2s0icWWUu,Mr. Jones,Counting Crows,['Counting Crows'],0.578,0.817,0,-6.542,1,0.0363,0.183,3.06e-06,0.285,0.726,141.621,4,272
+7,31v2AQlx4pDI7kmnLxBkem,Mmm Mmm Mmm Mmm,Crash Test Dummies,['Crash Test Dummies'],0.58,0.575,3,-7.72,1,0.0231,0.25,1.83e-05,0.0813,0.37,92.934,4,235
+8,11LmqTE2naFULdEP94AUBa,Heart-Shaped Box,Nirvana,['Nirvana'],0.256,0.641,1,-10.283,1,0.0552,0.199,0.0329,0.0853,0.382,203.006,4,281
+9,1LzNfuep1bnAUR9skqdHCK,Fade Into You,Mazzy Star,['Mazzy Star'],0.42,0.33,9,-13.925,1,0.0275,0.245,0.000679,0.0677,0.175,157.143,3,296
+10,4eHbdreAnSOrDDsFfc4Fpm,I Will Always Love You,Whitney Houston,['Whitney Houston'],0.332,0.214,4,-12.518,1,0.0349,0.845,5.62e-06,0.0839,0.11,67.531,4,271
+11,0gEyKnHvgkrkBM6fbeHdwK,Linger,The Cranberries,['The Cranberries'],0.439,0.434,7,-14.918,1,0.0265,0.0783,4.87e-05,0.14,0.204,94.845,4,275
+12,45Ia1U4KtIjAPPU7Wv1Sea,Are You Gonna Go My Way,Lenny Kravitz,['Lenny Kravitz'],0.619,0.67,11,-10.322,0,0.0353,0.00165,0.0109,0.331,0.777,129.269,4,212
+13,6PypGyiu0Y2lCDBN1XZEnP,Everybody Hurts,R.E.M.,['R.E.M.'],0.467,0.324,2,-10.451,1,0.0255,0.615,0.0248,0.118,0.166,94.301,3,320
+14,1oTHteQbmJw15rPxPVXUTv,Insane in the Brain,Cypress Hill,['Cypress Hill'],0.897,0.611,11,-10.489,1,0.211,0.0291,0.186,0.0894,0.769,102.304,4,208
+15,1zng9uqqXoPkmU05nsAlsw,Bed Of Roses,Bon Jovi,['Bon Jovi'],0.309,0.596,5,-5.599,1,0.0293,0.101,0.0,0.21,0.161,164.587,3,394
+16,4JGKZS7h4Qa16gOU3oNETV,Dreams,The Cranberries,['The Cranberries'],0.551,0.643,4,-13.091,1,0.0353,0.00313,0.00385,0.421,0.514,128.661,4,272
+17,6CKoWCWAqEVWVjpeoJXyNH,Shape Of My Heart,Sting,['Sting'],0.537,0.373,6,-10.081,0,0.0331,0.691,0.000915,0.083,0.244,83.936,4,279
+18,2GrOq1y5gksYrqkc8Jzl9T,It Was A Good Day,Ice Cube,['Ice Cube'],0.797,0.779,7,-4.719,0,0.141,0.319,0.000142,0.266,0.82,82.37,4,260
+19,31er9IGsfFbwqy1pH4aiTP,I Have Nothing,Whitney Houston,['Whitney Houston'],0.541,0.401,0,-10.499,1,0.0365,0.576,0.0,0.164,0.24,152.943,3,289
+20,0wokCRaKD0zPNhMRXAgVsr,Ordinary World,Duran Duran,['Duran Duran'],0.472,0.652,1,-10.171,0,0.0305,0.0131,1.12e-05,0.14,0.401,140.124,4,340
+21,5Rizj5FLb2AyNKu9esjYY6,Rape Me,Nirvana,['Nirvana'],0.42,0.746,8,-10.628,1,0.0467,0.0141,0.0,0.0661,0.229,111.886,4,170
+22,0XRbYXQUymj9SJkrr8YK5B,Keep Ya Head Up,2Pac,['2Pac'],0.598,0.732,4,-7.013,1,0.425,0.144,0.0,0.508,0.595,172.329,4,263
+23,0I1DJdLt9BKOb7GWmWxCjo,Fields Of Gold,Sting,['Sting'],0.651,0.339,2,-11.917,1,0.0246,0.372,0.0141,0.0739,0.32,103.996,4,222
+24,5kK1Iru9ogP3Iy1zsANU1n,The Power of Love,Céline Dion,['Céline Dion'],0.546,0.519,8,-9.072,1,0.0291,0.36,0.00046,0.24,0.247,140.054,4,342
+25,4FCb4CUbFCMNRkI6lYc1zI,Hero,Mariah Carey,['Mariah Carey'],0.501,0.378,4,-9.37,1,0.029,0.735,0.0,0.119,0.178,119.987,4,258
+26,7ojJ4XvqBhBcteM0zjMebT,(I Can't Help) Falling In Love With You,UB40,['UB40'],0.642,0.722,2,-13.031,1,0.0375,0.0444,0.00388,0.122,0.836,172.406,4,207
+27,0Pu71wxadDlB8fJXfjIjeJ,Shoop,Salt-N-Pepa,['Salt-N-Pepa'],0.939,0.675,0,-7.232,1,0.211,0.0915,0.0,0.0565,0.795,96.918,4,249
+28,3NGT0Td7H4Is1qrlDQJxma,Check Yo Self - Remix,Ice Cube,"['Ice Cube', 'Das EFX']",0.934,0.735,1,-6.668,1,0.251,0.031,8.6e-06,0.107,0.768,101.368,4,273
+29,0yfNXxlyXdmP0ue1iJijx1,Come Undone,Duran Duran,['Duran Duran'],0.542,0.793,8,-8.203,1,0.053,0.0423,3.95e-06,0.0814,0.708,173.931,4,257
+30,0cuq829zRNq4AEdmDJA4aw,Two Princes,Spin Doctors,['Spin Doctors'],0.544,0.905,7,-10.732,1,0.0646,0.00165,1.97e-06,0.0532,0.825,103.594,4,257
+31,4t0UsYzmmmZRMTWn77jiGF,Show Me Love,Robin S,['Robin S'],0.811,0.833,5,-4.259,1,0.153,0.014,2.06e-05,0.0769,0.567,120.258,4,252
+32,2CdS3DRqWR5LAhy4hM5X9W,Laid,James,['James'],0.457,0.909,0,-9.451,1,0.0317,0.0016,0.000276,0.135,0.755,115.998,4,157
+33,4voEoczU7Ijborps9XF1n3,I Get Around,2Pac,"['2Pac', 'Digital Underground']",0.846,0.416,10,-13.767,0,0.118,0.156,9.34e-06,0.238,0.645,96.188,4,259
+34,71EHOyEOhNx1SzTebRRyng,Weak,SWV,['SWV'],0.693,0.533,2,-10.954,0,0.0402,0.107,0.0,0.0695,0.568,127.661,4,292
+35,5x9RZg7HfXGY3JayXL3seF,Cats In The Cradle,Ugly Kid Joe,['Ugly Kid Joe'],0.511,0.517,8,-9.653,1,0.0328,0.13,0.0,0.074,0.433,75.67,4,242
+36,01kVVoJQuWVqaOvRgRztJD,Sing Hallelujah!,Dr. Alban,['Dr. Alban'],0.759,0.822,5,-7.268,0,0.0367,0.00136,0.0171,0.131,0.94,124.713,4,241
+37,7woW97CfcWaKtuC6W5BP2K,Heal the World,Michael Jackson,['Michael Jackson'],0.545,0.485,9,-8.045,1,0.0485,0.537,1.8e-06,0.104,0.101,80.948,4,384
+38,5sVf9kN90ScddiT3SdT9Qh,Since I Don't Have You,Guns N' Roses,"[""Guns N' Roses""]",0.466,0.632,6,-6.94,1,0.0326,0.465,0.000256,0.135,0.246,68.893,4,260
+39,2MAVcVr2oylw2OZ3hojWYj,'74-'75,The Connells,['The Connells'],0.53,0.59,11,-9.169,1,0.025,0.183,0.00227,0.0675,0.43,144.202,4,279
+40,1SyQ6t9RdRBK0QUCS6a797,Hip Hop Hooray,Naughty By Nature,['Naughty By Nature'],0.862,0.642,6,-13.652,0,0.101,0.102,0.0,0.272,0.765,99.2,4,267
+41,29rQJydAlO0uMyWvRIZxQg,That's The Way Love Goes,Janet Jackson,['Janet Jackson'],0.703,0.7,5,-6.789,1,0.0693,0.302,0.471,0.0718,0.582,97.675,4,265
+42,7sJN693sYKEIEMu7fc5VnJ,Whatta Man,Salt-N-Pepa,"['Salt-N-Pepa', 'En Vogue']",0.757,0.544,5,-10.722,1,0.219,0.154,6.07e-05,0.226,0.921,173.208,4,308
+43,4o7ZPI2fmEi3piRe0Hrfpy,Hey Jealousy,Gin Blossoms,['Gin Blossoms'],0.471,0.797,6,-8.407,0,0.0389,0.000179,6.49e-06,0.299,0.497,152.903,4,237
+44,7voHUmPNDuYZ1SW1mwRu26,No Limit,2 Unlimited,['2 Unlimited'],0.65,0.985,5,-14.404,0,0.0445,0.00872,0.00422,0.0485,0.757,141.047,4,224
+45,2nfMrwg3aRhSAv4HX7IzJL,Said I Loved You...But I Lied,Michael Bolton,['Michael Bolton'],0.547,0.569,10,-8.644,1,0.0271,0.189,7.05e-06,0.156,0.432,159.713,4,305
+46,30qVCFYKBtAENjTIBA8FPZ,The River of Dreams,Billy Joel,['Billy Joel'],0.631,0.749,7,-8.15,1,0.0576,0.205,5.21e-06,0.0667,0.437,89.646,4,248
+47,6YIggUJW3ttAAPRdnki8RM,Disarm - Remastered,The Smashing Pumpkins,['The Smashing Pumpkins'],0.527,0.418,4,-10.205,0,0.0277,0.142,0.775,0.139,0.218,129.516,4,197
+48,5lSOVaPDk7x9Ey6c9DqGZx,Sweet Harmony,The Beloved,['The Beloved'],0.573,0.837,10,-8.352,0,0.0337,0.0144,0.0889,0.0544,0.796,101.59,4,301
+49,2LjiPAQOVazT8sRyXL3XRs,Informer,Snow,['Snow'],0.763,0.742,6,-10.975,0,0.188,0.0984,0.0,0.38,0.483,98.145,4,269
+50,3eRE1KwnUma75nu1HhoNY4,Can We Talk,Tevin Campbell,['Tevin Campbell'],0.66,0.646,2,-9.111,0,0.0426,0.0312,5.06e-06,0.033,0.621,172.376,4,284
+51,7tUEDtHchueeUJTfEFEhii,Right Here - Human Nature Radio Mix,SWV,['SWV'],0.615,0.72,9,-5.16,0,0.0658,0.068,0.0105,0.0889,0.696,94.002,4,227
+52,6vGW3d8X48CBaLdU0PQbey,Moving on Up,M People,['M People'],0.899,0.857,0,-6.128,0,0.037,0.0499,0.0299,0.112,0.961,125.072,4,216
+53,2rTYgHxgcndkUrRoU7x0Sv,Mr. Vain,Culture Beat,['Culture Beat'],0.676,0.996,9,-7.946,0,0.0397,0.0478,0.262,0.333,0.4,132.871,4,337
+54,1E1ylgIWTW2yE0glywYLb6,"Stay (Faraway, So Close!)",U2,['U2'],0.561,0.51,8,-12.175,1,0.0258,0.186,0.0575,0.0674,0.719,94.079,4,298
+55,4avSaixVwu8uqfSs7zgoj3,Livin' On The Edge,Aerosmith,['Aerosmith'],0.399,0.881,2,-4.341,1,0.0347,0.0019,0.00429,0.39,0.272,84.58,4,381
+56,25IRjWUZ60n7KXxcB4DiX9,Strong Enough,Sheryl Crow,['Sheryl Crow'],0.58,0.265,2,-15.267,1,0.0317,0.796,0.00019,0.11,0.583,154.595,3,190
+57,2eHj0klWkwRQuIrNlPpCPa,I'm Every Woman,Whitney Houston,['Whitney Houston'],0.665,0.847,5,-8.314,0,0.0535,0.0178,0.00288,0.126,0.4,119.555,4,285
+58,0W2mz7mvaBaEsC4rmoRNPn,Slam,Onyx,['Onyx'],0.876,0.71,11,-12.908,1,0.347,0.0654,0.00312,0.918,0.724,98.305,4,218
+59,1xFliXOpcu7E89AsDAZ7JV,Breathe Again,Toni Braxton,['Toni Braxton'],0.689,0.677,0,-6.36,1,0.0326,0.0697,0.0,0.0877,0.259,153.922,4,269
+60,3oWXoSkjdbTlQlteizN7Hb,Whoomp! There It Is - Radio Edit,Tag Team,['Tag Team'],0.798,0.639,4,-7.391,0,0.0424,0.00141,0.0,0.0836,0.421,129.443,4,225
+61,7tsRp7QKUBp6hc9bth0h7x,Don't Walk Away,Jade,['Jade'],0.831,0.915,10,-7.501,0,0.128,0.147,0.00571,0.196,0.881,102.979,4,216
+62,5WmDRnuGYo31xrWNDcYaps,Found Out About You,Gin Blossoms,['Gin Blossoms'],0.539,0.826,7,-8.037,1,0.0276,0.00224,0.0451,0.0832,0.669,134.718,4,233
+63,0vTKR5TQD03kASmEGlyDF3,In These Arms,Bon Jovi,['Bon Jovi'],0.51,0.915,4,-3.036,1,0.0562,0.00884,1.75e-05,0.205,0.459,123.257,4,319
+64,6eB35pgMXdfhz5Z0WjwF1O,Hey Mr. D.J.,Zhané,['Zhané'],0.865,0.557,2,-8.018,1,0.0612,0.0221,0.00353,0.0973,0.859,101.295,4,252
+65,35qwJUKVy1OIt0wQ3xEXi0,Round Here,Counting Crows,['Counting Crows'],0.314,0.478,7,-9.37,1,0.0341,0.144,7.19e-05,0.0814,0.186,94.203,4,331
+66,3l9OCOG3Vt6c2lxeMyGSIY,One Last Cry,Brian McKnight,['Brian McKnight'],0.356,0.125,6,-13.8,1,0.03,0.909,0.000316,0.131,0.105,109.771,4,295
+67,0JXXm3RqxU8EKzX4P8M0n3,More And More - Single Version,Captain Hollywood Project,['Captain Hollywood Project'],0.661,0.847,7,-11.855,1,0.0349,0.225,0.835,0.0863,0.71,125.862,4,254
+68,1euDTbMNRPNfKd8zZz4zTT,Give In to Me,Michael Jackson,['Michael Jackson'],0.502,0.855,4,-3.27,0,0.0305,0.152,0.000488,0.106,0.337,86.968,4,329
+69,26q6YTrXt9l8qshIveiTX9,Rebirth Of Slick (Cool Like Dat),Digable Planets,['Digable Planets'],0.884,0.334,1,-18.943,0,0.228,0.0476,0.0588,0.107,0.571,98.315,4,261
+70,6HcQZfMrw3KwGyzrKw1Pjy,Dreamlover,Mariah Carey,['Mariah Carey'],0.701,0.705,5,-6.18,1,0.0357,0.18,0.0,0.141,0.71,100.669,4,233
+71,0IaMMHVbpJ0LrRAeigWOXr,Again,Janet Jackson,['Janet Jackson'],0.359,0.287,0,-9.51,1,0.0303,0.882,0.00607,0.186,0.189,130.135,4,227
+72,4UGzL9fNdZPnrb9oseuDSi,Relight My Fire (feat. Lulu),Take That,"['Take That', 'Lulu']",0.653,0.943,9,-7.315,1,0.0508,0.0379,0.0,0.0989,0.924,122.622,4,252
+73,15kc3DJyYixeEEq5kRRrOm,Break It Down Again,Tears For Fears,['Tears For Fears'],0.681,0.742,5,-7.0,1,0.0249,0.0134,0.422,0.121,0.486,109.001,4,272
+74,05vL56xSoxthM0r7IfcQjo,If I Ever Lose My Faith In You,Sting,['Sting'],0.575,0.727,2,-9.539,1,0.0281,0.00952,0.00754,0.054,0.504,97.995,4,271
+75,34MRi5GRWHFUa731JBxFEl,Chief Rocka,Lords Of The Underground,['Lords Of The Underground'],0.89,0.716,1,-9.673,1,0.296,0.174,0.000589,0.0657,0.656,99.987,4,247
+76,4veE1jrMbVSy9FRCiYDGkD,I'm The Only One,Melissa Etheridge,['Melissa Etheridge'],0.614,0.476,0,-9.648,1,0.0321,0.0448,0.0,0.0608,0.644,84.938,4,295
+77,0hJnqEmo8DeMmRhh6mwAof,Two Steps Behind - String / Acoustic Version,Def Leppard,['Def Leppard'],0.456,0.419,2,-10.594,1,0.0247,0.117,0.0,0.178,0.425,146.148,4,256
+78,1UVll7jjUlqSGxCZ6uXVaD,Regret - 2015 Remaster,New Order,['New Order'],0.506,0.931,5,-5.635,1,0.0305,0.00146,0.0227,0.27,0.865,129.568,4,249
+79,5CdJveJgiGXoGwDFqF6afp,Freak Me,Silk,['Silk'],0.697,0.608,4,-10.976,0,0.0463,0.0295,0.0,0.276,0.725,133.879,4,275
+80,4wrS2dvdYei9jZN0JlUBP6,Twist And Shout,Chaka Demus & Pliers,"['Chaka Demus & Pliers', 'Jack Radics', 'The Taxi Gang']",0.802,0.82,2,-9.196,1,0.0334,0.224,0.0,0.293,0.977,128.954,4,238
+81,2b8RCiPb2rtG5AQ1FwyUZX,Come Baby Come,K7,['K7'],0.832,0.726,2,-7.739,1,0.19,0.028,0.0,0.0468,0.55,106.125,4,240
+82,4jVu0QPK9BVeNgAmfvkocn,For Whom The Bell Tolls,Bee Gees,['Bee Gees'],0.537,0.695,4,-6.886,1,0.0365,0.0535,0.0,0.0691,0.338,82.055,4,307
+83,3mDoAC8R1miOQ6Ld1NkAYH,Higher Ground,UB40,['UB40'],0.799,0.504,2,-12.874,1,0.045,0.074,0.000609,0.118,0.92,101.067,4,261
+84,1igW25R8lnb5ze9GWbuVsl,Will You Be There,Michael Jackson,"['Michael Jackson', 'Cleveland Orchestra']",0.348,0.432,8,-9.553,1,0.0388,0.819,0.0856,0.191,0.141,82.911,4,460
+85,6x6G0shZs4Qg4YLfLbhR7z,Right in the Night (Fall in Love with Music),Jam & Spoon,"['Jam & Spoon', 'Plavka']",0.74,0.946,0,-11.681,0,0.0353,0.0247,0.242,0.124,0.715,137.015,4,364
+86,3RNvMhYFEwpCgPnDGKR5MB,Cry For You,Jodeci,['Jodeci'],0.65,0.496,5,-12.349,0,0.0331,0.305,0.0,0.33,0.576,115.775,4,301
+87,4LmlGaGTEbTGE5VngAbpA3,Come To My Window,Melissa Etheridge,['Melissa Etheridge'],0.512,0.636,7,-9.602,1,0.0262,0.08,0.000106,0.088,0.499,97.257,4,236
+88,7M2wk27EePpYr9TH3uZY1r,Somebody Dance with Me,DJ BoBo,['DJ BoBo'],0.689,0.878,6,-8.052,0,0.0378,0.149,5.7e-06,0.147,0.809,128.033,4,209
+89,5AKBbv9A9jfPce0KkH27Cd,Almost Unreal,Roxette,['Roxette'],0.542,0.613,4,-5.724,1,0.025,0.0808,0.0,0.126,0.267,92.035,4,235
+90,70iDnqYvxCPl3mPd3ddxgD,Another Sad Love Song,Toni Braxton,['Toni Braxton'],0.78,0.711,2,-7.429,1,0.0476,0.0142,3.75e-05,0.0366,0.859,96.067,4,302
+91,1HDaENkQhUMm16pjdxZvHn,Please Forgive Me,Bryan Adams,['Bryan Adams'],0.587,0.456,9,-7.011,1,0.0262,0.516,0.0,0.104,0.144,134.11,4,356
+92,1luVSQzb1LtLWxFd9xNDYL,Pray,Take That,['Take That'],0.536,0.937,7,-7.202,1,0.0801,0.0827,1.76e-06,0.397,0.545,103.567,4,223
+93,5ZDL1Ap2Mwhk5xhmQ41Ei2,Boom! Shake the Room,DJ Jazzy Jeff & The Fresh Prince,['DJ Jazzy Jeff & The Fresh Prince'],0.792,0.964,1,-5.405,1,0.154,0.0698,0.0,0.302,0.621,99.771,4,226
+94,0t414ewhjcIiuPVF3QECz2,If,Janet Jackson,['Janet Jackson'],0.653,0.976,11,-5.173,0,0.0797,0.0374,0.00173,0.561,0.447,105.575,4,272
+95,3b3PnE1ROIZzILjmCGjVib,Rain,Madonna,['Madonna'],0.592,0.642,10,-9.38,1,0.026,0.0883,0.00134,0.131,0.16,92.419,4,329
+96,2uY8Y0CCNMpid8qgX2TWKb,One Night in Heaven,M People,['M People'],0.728,0.903,6,-6.549,1,0.0323,0.0291,0.00963,0.0984,0.823,123.059,4,264
+97,42MOQv8uspw7Jt6XSujAm7,Life - Radio Edit,Haddaway,['Haddaway'],0.595,0.847,10,-8.495,1,0.0333,0.00601,0.445,0.215,0.596,128.479,4,257
+98,67Gkahkd0wXdUJpmRcWxpm,"The Key, The Secret",Urban Cookie Collective,['Urban Cookie Collective'],0.703,0.803,10,-6.954,1,0.0316,0.074,0.00184,0.102,0.62,129.869,4,225
+99,5oPRLER8bCQN3RFFVvLbTC,If I Had No Loot,Tony! Toni! Toné!,['Tony! Toni! Toné!'],0.873,0.721,11,-9.774,0,0.0448,0.113,0.0,0.27,0.81,106.725,4,241
