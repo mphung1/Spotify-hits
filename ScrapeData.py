@@ -27,37 +27,42 @@ client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secr
 sp = spotipy.Spotify(client_credentials_manager = client_credentials_manager)
 
 
-years = range(2005, 2020)
+years = range(1997, 1998)
 username = 'Spotify'
 driver = webdriver.Firefox(executable_path='C:\\Users\\pgmin\\.wdm\\drivers\\geckodriver\\win64\\0.32\\geckodriver.exe')
 
 for year in years:   
     driver.get('https://open.spotify.com/search/top hits of ' + str(year))
     time.sleep(5)
+    
     el =  driver.find_element(By.XPATH, "//*[@class='ZWI7JsjzJaR_G8Hy4W6J']//span[normalize-space()='Playlists']")
     el.click() 
     time.sleep(5)
+    
     playlist = driver.find_element(By.XPATH, "//*[@class='Nqa6Cw3RkDMV8QnYreTr']")
     playlist.click()
     playlist_link = driver.current_url
     playlist_id = playlist_link.split("/")[-1].split("?")[0]
     results = sp.user_playlist(username, playlist_id, 'tracks')
     time.sleep(5)
+    
     playlist_tracks_data = results['tracks']
     playlist_tracks_id = []
     playlist_tracks_titles = []
     playlist_tracks_artists = []
     playlist_tracks_primary_artists = []
 
-    for track in playlist_tracks_data['items']:
-        playlist_tracks_id.append(track['track']['id'])
-        playlist_tracks_titles.append(track['track']['name'])
-        # adds a list of all artists involved in the song to the list of artists for the playlist
-        artist_list = []
-        for artist in track['track']['artists']:
-            artist_list.append(artist['name'])
-        playlist_tracks_artists.append(artist_list)
-        playlist_tracks_primary_artists.append(artist_list[0])
+    if playlist_tracks_data['items'] is not None: 
+        for track in playlist_tracks_data['items']:
+            playlist_tracks_id.append(track['track']['id'])
+            playlist_tracks_titles.append(track['track']['name'])
+            # adds a list of all artists involved in the song to the list of artists for the playlist
+            artist_list = []
+            if track['track']['artists'] is not None:
+                for artist in track['track']['artists']:
+                    artist_list.append(artist['name'])
+                playlist_tracks_artists.append(artist_list)
+                playlist_tracks_primary_artists.append(artist_list[0])
         
     features = sp.audio_features(playlist_tracks_id)
     songs_df = pd.DataFrame(data=features, columns=features[0].keys())
