@@ -52,17 +52,15 @@ for year in years:
     playlist_tracks_artists = []
     playlist_tracks_primary_artists = []
 
-    if playlist_tracks_data['items'] is not None: 
-        for track in playlist_tracks_data['items']:
-            playlist_tracks_id.append(track['track']['id'])
-            playlist_tracks_titles.append(track['track']['name'])
-            # adds a list of all artists involved in the song to the list of artists for the playlist
-            artist_list = []
-            if track['track']['artists'] is not None:
-                for artist in track['track']['artists']:
-                    artist_list.append(artist['name'])
-                playlist_tracks_artists.append(artist_list)
-                playlist_tracks_primary_artists.append(artist_list[0])
+    for track in playlist_tracks_data['items']:
+        playlist_tracks_id.append(track['track']['id'])
+        playlist_tracks_titles.append(track['track']['name'])
+        # adds a list of all artists involved in the song to the list of artists for the playlist
+        artist_list = []
+            for artist in track['track']['artists']:
+                artist_list.append(artist['name'])
+            playlist_tracks_artists.append(artist_list)
+            playlist_tracks_primary_artists.append(artist_list[0])
         
     features = sp.audio_features(playlist_tracks_id)
     songs_df = pd.DataFrame(data=features, columns=features[0].keys())
