@@ -11,14 +11,13 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import json
 from time import sleep
 from datetime import date, timedelta
-
 import webbrowser
 from selenium import webdriver
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.common.by import By
 import time
-# gecko=GeckoDriverManager().install()
 
+# gecko=GeckoDriverManager().install()
 load_dotenv()
 cid = os.getenv('client_id')
 secret = os.getenv('client_secret')
