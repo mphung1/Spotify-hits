@@ -3,3 +3,4 @@
 .cache
 geckodriver.log
 __pycache__
+.mrx-link-logs
