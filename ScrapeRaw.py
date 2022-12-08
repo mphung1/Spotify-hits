@@ -25,7 +25,7 @@ username = 'Spotify'
 # gecko=GeckoDriverManager().install()
 driver = webdriver.Firefox(executable_path='C:\\Users\\pgmin\\.wdm\\drivers\\geckodriver\\win64\\0.32\\geckodriver.exe')
 
-def get_songs_data(year_start, year_end)
+def fetch_songs_audio_features(year_start, year_end)
     for year in range(year_start, year_end):   
         driver.get('https://open.spotify.com/search/top hits of ' + str(year))
         time.sleep(4)
@@ -81,4 +81,4 @@ def get_songs_data(year_start, year_end)
         with open('./data/songs-'+str(year)+'.csv', 'w', encoding='utf-8') as f:
             songs_df.to_csv(f, header= True, index=True)
 
-get_songs_data(1970, 2020)
+fetch_songs_audio_features(1970, 2020)
