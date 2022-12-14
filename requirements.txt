@@ -5,7 +5,7 @@ seaborn
 plotly
 wordcloud
 nltk
-PIL
+Pillow
 math
 requests
 warnings
