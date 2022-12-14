@@ -7,7 +7,6 @@ wordcloud
 nltk
 Pillow
 requests
-warnings
 panel
 hvplot
 holoviews
