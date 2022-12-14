@@ -12,7 +12,6 @@ hvplot
 holoviews
 bokeh
 spotipy
-dotenv
 tqdm
 sklearn
 
