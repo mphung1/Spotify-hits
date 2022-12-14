@@ -14,5 +14,5 @@ holoviews
 bokeh
 spotipy
 tqdm
-sklearn
+scikit-learn
 
