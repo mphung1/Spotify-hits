@@ -6,10 +6,8 @@ plotly
 wordcloud
 nltk
 Pillow
-math
 requests
 warnings
-sys
 panel
 hvplot
 holoviews
