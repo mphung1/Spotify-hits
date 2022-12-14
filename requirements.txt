@@ -15,4 +15,5 @@ bokeh
 spotipy
 tqdm
 scikit-learn
+statsmodels
 
