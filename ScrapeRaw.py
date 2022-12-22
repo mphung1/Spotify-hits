@@ -28,7 +28,7 @@ driver = webdriver.Firefox(executable_path='C:\\Users\\pgmin\\.wdm\\drivers\\gec
 def fetch_songs_audio_features(year_start, year_end)
     for year in range(year_start, year_end):   
         driver.get('https://open.spotify.com/search/top hits of ' + str(year))
-        time.sleep(4)
+        time.sleep(3)
 
         playlist_els =  driver.find_element(By.XPATH, "//*[@class='ZWI7JsjzJaR_G8Hy4W6J']//span[normalize-space()='Playlists']")
         playlist_els.click() 

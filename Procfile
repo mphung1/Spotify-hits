@@ -1,1 +1,1 @@
-web: panel serve --address="0.0.0.0" --port=$PORT --use-xheaders Dashboard.ipynb --allow-websocket-origin=song-playah.herokuapp.com
+web: panel serve --address="0.0.0.0" --port=$PORT --use-xheaders Dashboard.ipynb --allow-websocket-origin=hit-playah.herokuapp.com

@@ -5,15 +5,17 @@ matplotlib
 seaborn
 plotly
 wordcloud
-nltk
 Pillow
+spotipy
 requests
+redis
+nltk
+scikit-learn
+statsmodels
+tqdm
 panel
 hvplot
 holoviews
 bokeh
-spotipy
-tqdm
-scikit-learn
-statsmodels
+
 
