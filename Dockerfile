@@ -1,8 +1,7 @@
 # Starting from base miniconda image
-FROM continuumio/miniconda3# Setting working directory in destination
-WORKDIR /app# This is the complete set of libraries required
-RUN conda install -c pyviz holoviz
-RUN conda install -c pyviz geoviews-core
-RUN conda install geopandas# Copy the relevant folder into the container
-COPY ./dep-test/ .# Run panel serve to start the app
+FROM continuumio/miniconda3
+WORKDIR /app
+COPY requirements.txt .
+RUN conda install --r requirements.txt
+COPY . .
 CMD panel serve --address="0.0.0.0" --port=$PORT Dashboard.ipynb --allow-websocket-origin=hit-playah.herokuapp.com
