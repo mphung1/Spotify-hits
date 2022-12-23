@@ -9,23 +9,22 @@ from time import sleep
 from selenium import webdriver
 # from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
+# Create driver
+# gecko=GeckoDriverManager().install()
 from selenium.webdriver.common.by import By
 import time
 import warnings
 warnings.filterwarnings('ignore')
+
+driver = webdriver.Firefox(executable_path=os.getenv('driver_exe_path'))
 
 load_dotenv()
 cid = os.getenv('client_id')
 secret = os.getenv('client_secret')
 client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret)
 sp = spotipy.Spotify(client_credentials_manager = client_credentials_manager)
-username = 'Spotify'
 
-# Create driver
-# gecko=GeckoDriverManager().install()
-driver = webdriver.Firefox(executable_path='C:\\Users\\pgmin\\.wdm\\drivers\\geckodriver\\win64\\0.32\\geckodriver.exe')
-
-def fetch_songs_audio_features(year_start, year_end)
+def fetch_songs_audio_features(year_start, year_end):
     for year in range(year_start, year_end):   
         driver.get('https://open.spotify.com/search/top hits of ' + str(year))
         time.sleep(3)
@@ -38,7 +37,7 @@ def fetch_songs_audio_features(year_start, year_end)
         playlist.click()
         playlist_link = driver.current_url
         playlist_id = playlist_link.split("/")[-1].split("?")[0]
-        playlist_results = sp.user_playlist(username, playlist_id, 'tracks')
+        playlist_results = sp.user_playlist('Spotify', playlist_id, 'tracks')
         time.sleep(3)
 
         playlist_tracks_data = playlist_results['tracks']
